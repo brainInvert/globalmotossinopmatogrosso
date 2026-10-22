@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação completo para o Portal Duas Rodas, marketplace de motos inspirado no Webmotors com frontend React, backend Express com JWT e persistência local, busca com filtros multifacetados, simulador de financiamento, comparador de motos, painel do vendedor e moderação administrativa.",
+  "updatedAt":  "2026-10-22T09:16:40.484864727Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

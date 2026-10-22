@@ -1,0 +1,6 @@
+{
+  "name": "Portal Duas Rodas - Marketplace de Motos",
+  "description": "Marketplace completo de compra e venda de motos com busca refinada, simulador de financiamento, comparador e contato direto via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
